@@ -1,3 +1,5 @@
+## :warning: This repository has moved to https://github.com/IBM/og. Please visit the new location. This repository will no longer be maintained.
+
 # Object Generator
 
 ## Introduction
